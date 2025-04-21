@@ -1,0 +1,26 @@
+#container{
+    color: orangered;
+    height : 1000px;
+    background-color: black;
+    
+}
+#list h1{
+    font-size: xxx-large;
+}
+#list{
+    /* margin-top: 100px; */
+    
+    margin-top: 0%;
+    font-size:x-large ;
+    background-color: rgba(255, 255, 255, 0.193);
+    padding: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: orangered;
+}
+#list li{
+    direction: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
