@@ -71,7 +71,7 @@ cd fitness-tracker
 # Add Workout page
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/7d488ce0-86a3-4508-8e97-56275884303b" />
 
-* If you try to input the wrong data into the fields
+* If you try to input the wrong data into the fields, the following errors will be generated
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/1c97ef20-44fd-47fd-9f64-4c585c883f4c" />
 
 
